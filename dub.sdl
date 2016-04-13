@@ -1,7 +1,7 @@
 name "bgfx-extras-d"
-description "D bindings for bgfx extras."
-copyright "Copyright © 2016, Oleh Havrys (olehlong)"
-authors "gaolong"
+description "A binding to the bgfx-extras library for the D Programming Language."
+copyright "Copyright © 2016, Oleh Havrys"
+authors "Oleh Havrys (olehlong)"
 
 libs "bgfx-extras"
 lflags "-L."
