@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"derelict-ft": "1.1.1",
+		"derelict-util": "2.0.4",
+		"bgfx-d": "0.13.2"
+	}
+}

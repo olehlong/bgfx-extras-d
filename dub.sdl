@@ -1,0 +1,12 @@
+name "bgfx-extras-d"
+description "D bindings for bgfx extras."
+copyright "Copyright © 2016, Oleh Havrys (olehlong)"
+authors "gaolong"
+
+libs "bgfx-extras"
+lflags "-L."
+
+targetPath "lib"
+
+dependency "bgfx-d" version="~>0.13.2"
+dependency "derelict-ft" version="~>1.1.1"
