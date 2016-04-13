@@ -2,6 +2,7 @@ name "bgfx-extras-d"
 description "A binding to the bgfx-extras library for the D Programming Language."
 copyright "Copyright © 2016, Oleh Havrys"
 authors "Oleh Havrys (olehlong)"
+license "MIT"
 
 libs "bgfx-extras"
 lflags "-L."
