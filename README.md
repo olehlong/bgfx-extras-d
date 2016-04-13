@@ -4,4 +4,4 @@ A binding to the [bgfx-extras](https://github.com/olehlong/bgfx-extras) library 
 
 Example
 -------------------------------------------------------------
-See [bgfx-example-nanovg]https://github.com/olehlong/bgfx-example-nanovg 
+See [bgfx-example-nanovg](https://github.com/olehlong/bgfx-example-nanovg)
